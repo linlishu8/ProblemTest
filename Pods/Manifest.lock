@@ -34,6 +34,17 @@ DEPENDENCIES:
   - SDWebImage (~> 4.0.0)
   - YYCache (~> 1.0.4)
 
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+    - YYCache
+
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   IQKeyboardManager: 83eae5318483a34eb2069ef413d195b97605232e
@@ -46,4 +57,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 62497f3070f0c446fa095487a6afa4c4c456c11b
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.9.1
