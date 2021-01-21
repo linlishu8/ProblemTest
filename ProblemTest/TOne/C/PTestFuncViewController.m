@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.title = @"添加试题";asdf
+    self.title = @"添加试题";
 }
 
 - (void)didReceiveMemoryWarning {

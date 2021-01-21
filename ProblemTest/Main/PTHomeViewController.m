@@ -13,6 +13,9 @@
 
 @interface PTHomeViewController ()
 
+@property (nonatomic, strong) UITextField *startNumberTextField;
+@property (nonatomic, strong) UITextField *endNumberTextField;
+
 @end
 
 @implementation PTHomeViewController
@@ -37,6 +40,9 @@
     checkBtn.frame = CGRectMake(startBtn.left, startBtn.bottom + 20, startBtn.width, startBtn.height);
     [checkBtn addTarget:self action:@selector(btnAction:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:checkBtn];
+    
+    [self.view addSubview:self.startNumberTextField];
+    [self.view addSubview:self.endNumberTextField];
 }
 
 - (void)btnAction:(UIButton *)btn {
@@ -45,12 +51,31 @@
         PTestFuncViewController *vc = [[PTestFuncViewController alloc] init];
         [self.navigationController pushViewController:vc animated:YES];
     } else if (btn.tag == 201) {
-        PTWrongViewController *vc = [[PTWrongViewController alloc] init];
+        PTQuestionViewController *vc = [[PTQuestionViewController alloc] init];
         [self.navigationController pushViewController:vc animated:YES];
     } else if (btn.tag == 201) {
         PTWrongViewController *vc = [[PTWrongViewController alloc] init];
         [self.navigationController pushViewController:vc animated:YES];
     }
+}
+
+#pragma mark - getters and setters
+
+- (UITextField *)startNumberTextField {
+    if (!_startNumberTextField) {
+        _startNumberTextField  = [[UITextField alloc] init];
+        _startNumberTextField.text = @"0";
+        
+    }
+    return _startNumberTextField;
+}
+
+- (UITextField *)endNumberTextField {
+    if (!_endNumberTextField) {
+        _endNumberTextField.text = @"30";
+        
+    }
+    return _endNumberTextField;
 }
 
 - (void)didReceiveMemoryWarning {
