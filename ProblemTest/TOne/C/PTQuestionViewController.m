@@ -19,6 +19,11 @@
 @property (nonatomic, strong) NSTimer *countDownTimer;      // 计时器
 @property (nonatomic, assign) NSInteger totalSeconds;       // 总时间
 @property (nonatomic, strong) NSArray *dataArray;
+
+@property (nonatomic) NSInteger startNumber;
+@property (nonatomic) NSInteger endNumber;
+           
+
 @end
 
 @implementation PTQuestionViewController{
@@ -31,6 +36,19 @@
     NSString *addUpAnswer;  // 统计答案 目前用字符串和“,”拼接，只适合单选题
 }
 
+- (instancetype)initWithStartNumber:(NSString *)startNumber
+                          endNumber:(NSString *)endNumber
+                          totleTime:(NSString *)totleTime
+{
+    self = [super init];
+    if (self) {
+        self.startNumber = [startNumber isEqualToString:@""] ? 0 : [startNumber integerValue];
+        self.endNumber = [endNumber isEqualToString:@""] ? 0 : [endNumber integerValue];
+        self.length_time = [endNumber isEqualToString:@""] ? @"30" : totleTime;
+    }
+    return self;
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
@@ -38,7 +56,6 @@
     [self createInterface];
     
     _dataArray = [NSArray array];
-    _length_time = @"5";
     _total_topic = @"5";
     
 }

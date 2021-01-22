@@ -13,8 +13,11 @@
 
 @interface PTHomeViewController ()
 
-@property (nonatomic, strong) UITextField *startNumberTextField;
-@property (nonatomic, strong) UITextField *endNumberTextField;
+//考题选择
+@property (nonatomic, strong) UITextField *startNumberTextField;//开始
+@property (nonatomic, strong) UITextField *endNumberTextField;//结束
+
+@property (nonatomic, strong) UITextField *totleTimeTextField;//考试时间
 
 @end
 
@@ -43,6 +46,25 @@
     
     [self.view addSubview:self.startNumberTextField];
     [self.view addSubview:self.endNumberTextField];
+    
+    UILabel *lineLabel = [[UILabel alloc] init];
+    lineLabel.text = @"-";
+    lineLabel.textAlignment = NSTextAlignmentCenter;
+    [self.view addSubview:lineLabel];
+    
+    self.startNumberTextField.frame = CGRectMake(startBtn.left, checkBtn.bottom + 20, (HPScreenWidth - 40)/3, startBtn.height);
+    lineLabel.frame = CGRectMake(self.startNumberTextField.right, self.startNumberTextField.top, self.startNumberTextField.width, self.startNumberTextField.height);
+    self.endNumberTextField.frame = CGRectMake(lineLabel.right, self.startNumberTextField.top, self.startNumberTextField.width, self.startNumberTextField.height);
+    
+    UILabel *timeLabel = [[UILabel alloc] init];
+    timeLabel.text = @"考试时间：";
+    timeLabel.textAlignment = NSTextAlignmentCenter;
+    [self.view addSubview:timeLabel];
+    
+    [self.view addSubview:self.totleTimeTextField];
+    
+    timeLabel.frame = CGRectMake(startBtn.left, self.startNumberTextField.bottom + 20, self.startNumberTextField.width, self.startNumberTextField.height);
+    self.totleTimeTextField.frame = CGRectMake(timeLabel.right, timeLabel.top, (HPScreenWidth - 40)/3 * 2, startBtn.height);
 }
 
 - (void)btnAction:(UIButton *)btn {
@@ -51,7 +73,7 @@
         PTestFuncViewController *vc = [[PTestFuncViewController alloc] init];
         [self.navigationController pushViewController:vc animated:YES];
     } else if (btn.tag == 201) {
-        PTQuestionViewController *vc = [[PTQuestionViewController alloc] init];
+        PTQuestionViewController *vc = [[PTQuestionViewController alloc] initWithStartNumber:self.startNumberTextField.text endNumber:self.endNumberTextField.text totleTime:self.totleTimeTextField.text];
         [self.navigationController pushViewController:vc animated:YES];
     } else if (btn.tag == 201) {
         PTWrongViewController *vc = [[PTWrongViewController alloc] init];
@@ -64,6 +86,8 @@
 - (UITextField *)startNumberTextField {
     if (!_startNumberTextField) {
         _startNumberTextField  = [[UITextField alloc] init];
+        _startNumberTextField.textAlignment = NSTextAlignmentCenter;
+        _startNumberTextField.backgroundColor = HPRGB(204, 204, 204);
         _startNumberTextField.text = @"0";
         
     }
@@ -72,10 +96,24 @@
 
 - (UITextField *)endNumberTextField {
     if (!_endNumberTextField) {
+        _endNumberTextField  = [[UITextField alloc] init];
+        _endNumberTextField.textAlignment = NSTextAlignmentCenter;
+        _endNumberTextField.backgroundColor = HPRGB(204, 204, 204);
         _endNumberTextField.text = @"30";
         
     }
     return _endNumberTextField;
+}
+
+- (UITextField *)totleTimeTextField {
+    if (!_totleTimeTextField) {
+        _totleTimeTextField  = [[UITextField alloc] init];
+        _totleTimeTextField.textAlignment = NSTextAlignmentCenter;
+        _totleTimeTextField.backgroundColor = HPRGB(204, 204, 204);
+        _totleTimeTextField.text = @"30";
+        
+    }
+    return _totleTimeTextField;
 }
 
 - (void)didReceiveMemoryWarning {
