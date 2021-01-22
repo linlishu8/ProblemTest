@@ -75,7 +75,7 @@
     } else if (btn.tag == 201) {
         PTQuestionViewController *vc = [[PTQuestionViewController alloc] initWithStartNumber:self.startNumberTextField.text endNumber:self.endNumberTextField.text totleTime:self.totleTimeTextField.text];
         [self.navigationController pushViewController:vc animated:YES];
-    } else if (btn.tag == 201) {
+    } else if (btn.tag == 202) {
         PTWrongViewController *vc = [[PTWrongViewController alloc] init];
         [self.navigationController pushViewController:vc animated:YES];
     }
@@ -87,7 +87,7 @@
     if (!_startNumberTextField) {
         _startNumberTextField  = [[UITextField alloc] init];
         _startNumberTextField.textAlignment = NSTextAlignmentCenter;
-        _startNumberTextField.backgroundColor = HPRGB(204, 204, 204);
+        _startNumberTextField.backgroundColor = [UIColor hex:@"cccccc"];
         _startNumberTextField.text = @"0";
         
     }
@@ -98,7 +98,7 @@
     if (!_endNumberTextField) {
         _endNumberTextField  = [[UITextField alloc] init];
         _endNumberTextField.textAlignment = NSTextAlignmentCenter;
-        _endNumberTextField.backgroundColor = HPRGB(204, 204, 204);
+        _endNumberTextField.backgroundColor = [UIColor hex:@"cccccc"];
         _endNumberTextField.text = @"30";
         
     }
@@ -109,7 +109,7 @@
     if (!_totleTimeTextField) {
         _totleTimeTextField  = [[UITextField alloc] init];
         _totleTimeTextField.textAlignment = NSTextAlignmentCenter;
-        _totleTimeTextField.backgroundColor = HPRGB(204, 204, 204);
+        _totleTimeTextField.backgroundColor = [UIColor hex:@"cccccc"];
         _totleTimeTextField.text = @"30";
         
     }

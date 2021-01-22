@@ -14,7 +14,7 @@
 #import "LEEAlert.h"
 #import "HPProgressHUD.h"
 
-@interface PTQuestionViewController ()
+@interface PTQuestionViewController () <UIAlertViewDelegate>
 @property (nonatomic, strong) PTQuestionView *testView;
 @property (nonatomic, strong) NSTimer *countDownTimer;      // 计时器
 @property (nonatomic, assign) NSInteger totalSeconds;       // 总时间
@@ -257,6 +257,14 @@
     
     NSArray *temArr = [PTTestTopicModel mj_objectArrayWithKeyValuesArray:dataDic[@"msg"][@"data"]];
     
+    if (temArr.count > (self.endNumber - self.startNumber)) {
+        temArr = [temArr subarrayWithRange:NSMakeRange(self.startNumber, self.endNumber - self.startNumber)];
+    } else if (temArr.count > self.startNumber) {
+        temArr = [temArr subarrayWithRange:NSMakeRange(self.startNumber, temArr.count - self.startNumber)];
+    } else {
+        [[[UIAlertView alloc] initWithTitle:@"提示" message:@"考试范围选择错误" delegate:self cancelButtonTitle:@"确定" otherButtonTitles:nil] show];
+        return;
+    }
     [self handleTopicData:temArr];
     
 }
@@ -332,6 +340,12 @@
             }).LeeShow();
         }
     };
+}
+
+#pragma mark - UIAlertViewDelegate
+
+- (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex {
+    [self.navigationController popViewControllerAnimated:YES];
 }
 
 #pragma mark - 懒加载
