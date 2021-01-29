@@ -13,6 +13,7 @@
 @property (nonatomic, strong) NSArray *dataArray;
 
 @property (nonatomic, strong) NSMutableArray *recordAnswer;     // 记录答案
+@property (nonatomic, strong) NSMutableArray *correctAnswer;    //记录正确答案
 
 @property (nonatomic, strong) NSString *timeCounting;           // 计时时间
 

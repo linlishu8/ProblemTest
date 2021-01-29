@@ -184,10 +184,6 @@
     
     NSArray *youAnswer = self.testView.recordAnswer.copy;
     
-    DEBUGLog(@"you answer%@", youAnswer);
-    DEBUGLog(@"model array %@", self.dataArray);
-    
-    
     // 开始比对答案
     for (int i = 0; i < youAnswer.count; i++) {
         

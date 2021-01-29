@@ -7,7 +7,7 @@
 //
 
 #import "PTQuestionCell.h"
-#import "PTQuestionChoiceView.h"
+
 
 @interface PTQuestionCell () <PTQuestionChoiceViewDelegate>
 
@@ -16,7 +16,7 @@
 @property (nonatomic, strong) UILabel *titleLabel;                  // 题目
 @property (nonatomic, strong) UILabel *typeLabel;                   // 题目类型
 @property (nonatomic, strong) UIView *middleLine;                   // 中间灰线
-@property (nonatomic, strong) PTQuestionChoiceView *choiceView;     // 选项视图
+
 
 @property (nonatomic, strong) UIButton *lastBtn;                    //上一题
 @property (nonatomic, strong) UIButton *nextBtn;                    //下一题
@@ -49,6 +49,7 @@
 }
 
 - (void)nextBtnAction:(UIButton *)btn {
+    
     if ([self.delegate respondsToSelector:@selector(PTQuestionCellTapNextQuestion:)]) {
         [self.delegate PTQuestionCellTapNextQuestion:self];
     }
@@ -144,6 +145,15 @@
         }
         self.nextBtn.enabled = true;
         self.nextBtn.backgroundColor = [UIColor whiteColor];
+    }
+}
+
+- (void)setHaveCorrectChoices:(NSArray *)haveCorrectChoices {
+    _haveCorrectChoices = haveCorrectChoices;
+    if (haveCorrectChoices.count) {
+        if (self.choiceView) {
+            self.choiceView.correctChoice = haveCorrectChoices;
+        }
     }
 }
 

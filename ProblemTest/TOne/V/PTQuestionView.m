@@ -27,6 +27,7 @@ static NSString *const cellIDTestQuestion = @"testQuestionCellID";
         _dataArray = [NSArray array];
         [self createInterface];
         self.recordAnswer = [NSMutableArray array];
+        self.correctAnswer = [NSMutableArray array];
     }
     return self;
 }
@@ -56,6 +57,7 @@ static NSString *const cellIDTestQuestion = @"testQuestionCellID";
     }else {
         // 重做的题
         cell.haveSelectChoices = [self.recordAnswer safeObjectAtIndex:indexPath.item];
+        cell.haveCorrectChoices = [self.correctAnswer safeObjectAtIndex:indexPath.item];
     }
     
     return cell;
@@ -80,16 +82,21 @@ static NSString *const cellIDTestQuestion = @"testQuestionCellID";
 /** 下一题 */
 - (void)PTQuestionCellTapNextQuestion:(PTQuestionCell *)cell {
     
+    
     NSIndexPath *currentP = [self.collectionView indexPathForCell:cell];
     
-    // 作答到最后一题
-    if (currentP.item+1 >= self.dataArray.count) {
-        self.SubmitAnswerBlock();
-        return;
+    if (cell.choiceView.correctChoice == nil) {
+        cell.choiceView.correctChoice = self.correctAnswer[currentP.item];
+    } else {
+        // 作答到最后一题
+        if (currentP.item+1 >= self.dataArray.count) {
+            self.SubmitAnswerBlock();
+            return;
+        }
+        
+        NSIndexPath *nextP = [NSIndexPath indexPathForItem:currentP.item+1 inSection:currentP.section];
+        [self.collectionView scrollToItemAtIndexPath:nextP atScrollPosition:UICollectionViewScrollPositionNone animated:YES];
     }
-    
-    NSIndexPath *nextP = [NSIndexPath indexPathForItem:currentP.item+1 inSection:currentP.section];
-    [self.collectionView scrollToItemAtIndexPath:nextP atScrollPosition:UICollectionViewScrollPositionNone animated:YES];
 }
 
 /** 更新选中的选项数据 */
@@ -100,6 +107,8 @@ static NSString *const cellIDTestQuestion = @"testQuestionCellID";
     if (self.recordAnswer.count <= currentP.item) {
         // 做新题
         [self.recordAnswer addObject:choiceArray];
+        PTTestTopicModel *model = self.dataArray[currentP.item];
+        [self.correctAnswer addObject:[model.answer componentsSeparatedByString:@","]];;
     }else {
         // 重做的题
         [self.recordAnswer replaceObjectAtIndex:currentP.item withObject:choiceArray];

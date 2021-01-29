@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "PTTestTopicModel.h"
+#import "PTQuestionChoiceView.h"
 
 @class PTQuestionCell;
 @protocol PTQuestionCellDelegate <NSObject>
@@ -34,5 +35,10 @@
 
 /** 之前选中的选项 */
 @property (nonatomic, strong) NSArray *haveSelectChoices;
+
+/** 之前的正确选项 */
+@property (nonatomic, strong) NSArray *haveCorrectChoices;
+
+@property (nonatomic, strong) PTQuestionChoiceView *choiceView;     // 选项视图
 
 @end

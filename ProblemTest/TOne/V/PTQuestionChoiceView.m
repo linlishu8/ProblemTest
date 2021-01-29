@@ -120,7 +120,7 @@
 }
 
 - (void)setCorrectChoice:(NSArray *)correctChoice {
-    
+    _correctChoice = correctChoice;
     for (NSString *Charac in correctChoice) {
         if (Charac.length > 0 && [Charac characterAtIndex:0] >=65) {
             NSInteger charInte = [Charac characterAtIndex:0];
