@@ -184,6 +184,11 @@
     
     NSArray *youAnswer = self.testView.recordAnswer.copy;
     
+    NSArray *pathArray = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *path = [pathArray objectAtIndex:0];
+        //获取文件的完整路径
+    NSString *filePatch = [path stringByAppendingPathComponent:@"TestWrong.plist"];
+    NSMutableArray *wrongList = [NSMutableArray array];//错题集
     // 开始比对答案
     for (int i = 0; i < youAnswer.count; i++) {
         
@@ -197,16 +202,34 @@
                 // 做对了
                 rightNumber++;
                 getScore+= [model.score integerValue];
-            }else {
-                
+            } else {
+                //做错了记住
+                NSMutableString *answerString = [NSMutableString stringWithString:tempArr[0]];
+                if (tempArr.count > 1) {
+                    for (int i = 1; i < tempArr.count; i++) {
+                        [answerString appendString:[NSString stringWithFormat:@",%@", tempArr[i]]];
+                    }
+                }
+                [wrongList addObject:@{@"error_id" : @"",
+                                       @"test_id" : model.test_id,
+                                       @"number" : model.number,
+                                       @"title" : model.title,
+                                       @"type" : model.type,
+                                       @"option" : model.option_xuan,
+                                       @"answer" : model.answer,
+                                       @"score" : model.score,
+                                       @"select_answer" : answerString
+                }];
             }
             
-        }else {
+        } else {
             doNumber-=1;
             addUpAnswer = [[addUpAnswer stringByAppendingString:@""] stringByAppendingString:@","];
         }
         
     }
+    
+    [wrongList writeToFile:filePatch atomically:YES];// 写入文件
     
     // 向后台提交答案
     NSInteger stringLength = addUpAnswer.length;
@@ -246,10 +269,7 @@
 - (void)testTopicDetail {
     
     NSString *path = [[NSBundle mainBundle] pathForResource:@"Question" ofType:@"plist"];
-    DEBUGLog(@"plist path -- %@",path);
-    
     NSDictionary *dataDic = [NSDictionary dictionaryWithContentsOfFile:path];
-    DEBUGLog(@"data dic -- %@",dataDic);
     
     NSArray *temArr = [PTTestTopicModel mj_objectArrayWithKeyValuesArray:dataDic[@"msg"][@"data"]];
     

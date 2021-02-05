@@ -9,13 +9,13 @@
 #import <Foundation/Foundation.h>
 
 @interface PTTestWrongModel : NSObject
-@property (nonatomic, strong) NSString *error_id;
-@property (nonatomic, strong) NSString *test_id;
-@property (nonatomic, strong) NSString *number;
-@property (nonatomic, strong) NSString *title;          //题目
-@property (nonatomic, strong) NSString *type;
-@property (nonatomic, strong) NSString *option;         //选项
-@property (nonatomic, strong) NSString *answer;         //正确答案
-@property (nonatomic, strong) NSString *score;
-@property (nonatomic, strong) NSString *select_answer;
+@property (nonatomic, copy) NSString *error_id;
+@property (nonatomic, copy) NSString *test_id;
+@property (nonatomic, copy) NSString *number;
+@property (nonatomic, copy) NSString *title;          //题目
+@property (nonatomic, copy) NSString *type;
+@property (nonatomic, copy) NSArray *option;         //选项
+@property (nonatomic, copy) NSString *answer;         //正确答案
+@property (nonatomic, copy) NSString *score;
+@property (nonatomic, copy) NSString *select_answer;
 @end

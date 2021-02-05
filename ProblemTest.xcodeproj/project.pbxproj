@@ -109,7 +109,6 @@
 		3F7BC79A1FB2FD3E009919A3 /* PTWrongView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7BC7991FB2FD3E009919A3 /* PTWrongView.m */; };
 		3F7BC79D1FB2FD88009919A3 /* PTTestWrongModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7BC79C1FB2FD88009919A3 /* PTTestWrongModel.m */; };
 		3F7BC7A21FB2FDE8009919A3 /* PTWrongCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7BC7A11FB2FDE8009919A3 /* PTWrongCell.m */; };
-		3F7BC7A41FB30390009919A3 /* TestWrong.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3F7BC7A31FB30390009919A3 /* TestWrong.plist */; };
 		9E04ADB283873E06159F9553 /* libPods-ProblemTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 245D9D0667CEFFA1DEB253AE /* libPods-ProblemTest.a */; };
 /* End PBXBuildFile section */
 
@@ -312,7 +311,6 @@
 		3F7BC79C1FB2FD88009919A3 /* PTTestWrongModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PTTestWrongModel.m; sourceTree = "<group>"; };
 		3F7BC7A01FB2FDE8009919A3 /* PTWrongCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PTWrongCell.h; sourceTree = "<group>"; };
 		3F7BC7A11FB2FDE8009919A3 /* PTWrongCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PTWrongCell.m; sourceTree = "<group>"; };
-		3F7BC7A31FB30390009919A3 /* TestWrong.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = TestWrong.plist; sourceTree = "<group>"; };
 		64F15C1405E632CFB29FC5E2 /* Pods-ProblemTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProblemTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ProblemTest/Pods-ProblemTest.debug.xcconfig"; sourceTree = "<group>"; };
 		C05BEA7FB21060D40EE621E4 /* Pods-ProblemTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProblemTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-ProblemTest/Pods-ProblemTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -376,7 +374,6 @@
 				3F1FEF161F9EDE5D00BCE39B /* Info.plist */,
 				3F1FEF061F9EDE5D00BCE39B /* main.m */,
 				3F1FF1F01F9F1C6000BCE39B /* Question.plist */,
-				3F7BC7A31FB30390009919A3 /* TestWrong.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -1036,7 +1033,6 @@
 				3F1FF0271F9EE61200BCE39B /* choose_down@2x.png in Resources */,
 				3F1FF1F11F9F1C6000BCE39B /* Question.plist in Resources */,
 				3F1FEF101F9EDE5D00BCE39B /* Main.storyboard in Resources */,
-				3F7BC7A41FB30390009919A3 /* TestWrong.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

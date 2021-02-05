@@ -55,13 +55,13 @@
     self.titleLabel.text = [@"        " stringByAppendingString:model.title];
     [_titleLabel changeLineSpace:5.0];
     
-    NSString *opString = model.option;
-    // 去掉字符串末尾的","
-    if ([model.option hasSuffix:@","]) {
-        NSInteger opLen = model.option.length;
-        opString = [model.option substringToIndex:opLen-1];
+    NSMutableArray *choiceArr = [NSMutableArray array];
+    for (NSArray *opArr in model.option) {
+        if (opArr.count >1) {
+            [choiceArr addObject:[opArr objectAtIndex:1]];
+        }
     }
-    self.choiceDesc = [opString componentsSeparatedByString:@","];
+    self.choiceDesc = choiceArr.copy;
     DEBUGLog(@"我的错题-选项数据：%@",self.choiceDesc);
     
     if (_choiceView && [self.contentView.subviews containsObject:_choiceView]) {

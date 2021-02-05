@@ -73,6 +73,14 @@
         PTestFuncViewController *vc = [[PTestFuncViewController alloc] init];
         [self.navigationController pushViewController:vc animated:YES];
     } else if (btn.tag == 201) {
+        //开始测试清空错题
+        NSArray *pathArray = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+        NSString *path = [pathArray objectAtIndex:0];
+            //获取文件的完整路径
+        NSString *filePatch = [path stringByAppendingPathComponent:@"TestWrong.plist"];
+        NSMutableArray *wrongList = [NSMutableArray array];//错题集
+        [wrongList writeToFile:filePatch atomically:YES];
+        
         PTQuestionViewController *vc = [[PTQuestionViewController alloc] initWithStartNumber:self.startNumberTextField.text endNumber:self.endNumberTextField.text totleTime:self.totleTimeTextField.text];
         [self.navigationController pushViewController:vc animated:YES];
     } else if (btn.tag == 202) {

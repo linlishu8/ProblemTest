@@ -35,9 +35,13 @@
 #pragma mark - 数据请求 / 数据处理
 - (void)requestWrongData {
     
-    NSDictionary *dataDic = [NSDictionary dictionaryWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"TestWrong" ofType:@"plist"]];
+    NSArray *pathArray = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *path = [pathArray objectAtIndex:0];
+        //获取文件的完整路径
+    NSString *filePatch = [path stringByAppendingPathComponent:@"TestWrong.plist"];
+    NSArray *dataList = [[NSMutableArray alloc] initWithContentsOfFile:filePatch];
     
-    NSArray *tempArray = [PTTestWrongModel mj_objectArrayWithKeyValuesArray:dataDic[@"msg"][@"data"]];
+    NSArray *tempArray = [PTTestWrongModel mj_objectArrayWithKeyValuesArray:dataList];
     self.mainView.dataArray = tempArray;
     
     if (tempArray.count == 0) {
