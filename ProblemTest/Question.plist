@@ -6168,34 +6168,38 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>183</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,C,D,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区成员代表大会的职权范围是(          )</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>决策权</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>立约权</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>监督权</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>执行权</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>选举权</string>
                     </array>
                 </array>
             </dict>
@@ -6203,69 +6207,77 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>184</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区居委会和物业机构的关系是(         )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社区居委会要依法规范物业管理机构的行为</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社区居委会要代表居民支持和监督物业管理机构的工作</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社区居委会和物业管理机构性质不同，彼此不相干</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>物业管理机构自觉接受社区居委会的指导、管理和监督</string>
                     </array>
+                    <array>
+                        <string>E</string>
+                        <string>物业管理机构可以代替社区居委会的职能</string>
+                    </array>
                 </array>
             </dict>
             <dict>
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>185</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>下列属于可回收利用的垃圾是(          )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>纸类</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>电池</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>食物残渣</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>橡胶</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>日光灯管</string>
                     </array>
                 </array>
             </dict>
@@ -6273,104 +6285,116 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>186</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>理顺社区的外部关系是指理顺(          )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>基层政府和社区的关系</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社区居委会与议事监督委员会的关系</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社区党组织和社区自治组织的关系</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>物业管理机构和社区居委会的关系</string>
                     </array>
+                    <array>
+                        <string>D</string>
+                        <string>政府职能部门和社区的关系</string>
+                    </array>
                 </array>
             </dict>
             <dict>
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>187</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,C,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社会工作的主要方法有(          )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>个案工作</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>经济工作</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社区工作</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>行政工作</string>
                     </array>
+                    <array>
+                        <string>E</string>
+                        <string>小组工作</string>
+                    </array>
                 </array>
             </dict>
             <dict>
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>188</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>民政部李学举部长提出筹措社区服务设施运营经费的思路和办法是(         )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>财政支持</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>费随事转</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>有偿服务</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>政策优惠</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>社会赞助</string>
                     </array>
                 </array>
             </dict>
@@ -6378,34 +6402,38 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>189</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,C,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区工作者任职期间实行统一的工作制度，工资由（          ）组成。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>基本工资</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>住房补贴</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>岗位工资</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>统一津贴</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>奖金</string>
                     </array>
                 </array>
             </dict>
@@ -6413,69 +6441,77 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>190</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>扩大基层民主，要让社区居民享有(         )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>知情权</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>决策权</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>管理权</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>监督权</string>
                     </array>
+                    <array>
+                        <string>E</string>
+                        <string>选举权</string>
+                    </array>
                 </array>
             </dict>
             <dict>
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>191</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区群众性自治组织包括（ ）。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社区党组织</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社区成员代表大会</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社区居民委员会</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社区议事监督委员会</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>物业管理公司</string>
                     </array>
                 </array>
             </dict>
@@ -6483,34 +6519,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>192</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>胡**同志在中央纪律检查委员会第三次全体会议上讲话指出，______是辨证唯物主义和历史唯物主义以一贯之的科学精神，是我们党的______的核心内容，也是党的优良传统和共产党人应该具备的政治品格。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>与时俱进 组织路线</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>求真务实 政治路线</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>求真务实 思想路线</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>求真务实 组织路线</string>
                     </array>
                 </array>
             </dict>
@@ -6518,7 +6554,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>193</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -6526,26 +6562,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>“一国两制”的基本内容是，在中华人民共和国内，国家的主体实行社会主义，香港、澳门和台湾实行资本主义。 ______是_______前提。“港人治港”必须“以______为主体的港人来治理香港。”(   )</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>“两制” “一国” 爱国者</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>“一国” “两制” 爱国者</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>“两制” “一国” 中国人</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>“一国” “两制” 中国人</string>
                     </array>
                 </array>
             </dict>
@@ -6553,34 +6589,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>194</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2008北京奥运会会徽图形为中国传统印章图形中的一种“肖形印”，其正式名称为_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>“中国印　运动的北京”</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>“肖形印　运动的北京”</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>“肖形印　舞动的北京”</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>“中国印　舞动的北京”</string>
                     </array>
                 </array>
             </dict>
@@ -6588,7 +6624,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>195</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -6596,26 +6632,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>我国安全生产形势仍然相当严峻。重庆市开县境内中石油川东北气矿2003年12月23日发生天然气_____事故。2004年2月5日，北京市密云县密虹公园举办的密云县第二届迎春灯展发生特大恶性事故。2月15日中午，吉林省______市中百商厦发生特大火灾。同日，浙江省______市黄湾镇五丰村—草棚发生特大火灾。这些事故均造成重大人员伤亡。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>井喷 吉林 临海</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>井喷 吉林 海宁</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>泄露 长春 海宁</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>泄露 长春 临海</string>
                     </array>
                 </array>
             </dict>
@@ -6623,34 +6659,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>196</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>俄罗斯第四届国家杜马2003年12月7日举行选举。最终统计结果显示，_____得票率为37.57%，成为俄罗斯新一届杜马中第一大党。2004年3月23日，俄罗斯中央选举委员会主席韦什尼亚科夫正式宣布，现任总统______在3月　14日举行的俄罗斯选举中以71.31%的得票率蝉联总统。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>“统一俄罗斯党” 普京</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>“祖国”竞选联盟 马雷什金</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>自民党 赫里斯坚科</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>俄罗斯共产党 哈里托诺夫</string>
                     </array>
                 </array>
             </dict>
@@ -6658,7 +6694,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>197</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -6666,26 +6702,22 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>_______是一个民族进步的灵魂，是一个国家兴旺发达的不竭动力，也是一个政党永葆生机的源泉。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>继承</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>创新</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>知识</string>
                     </array>
                 </array>
             </dict>
@@ -6693,34 +6725,30 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>198</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>在经济建设中，我党一直强调______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>发展是硬道理</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>稳定是压倒一切的硬道理</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>“两个文明”一起抓是硬道理</string>
                     </array>
                 </array>
             </dict>
@@ -6728,7 +6756,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>199</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -6736,26 +6764,22 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2003年5月，经国务院批准，厦门市调整行政区划调整后，厦门市辖_______六个区</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>思明 湖里 杏林 海沧 同安 翔安</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>思明 湖里 集美 海沧 同安 翔安 </string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>思明 湖里 杏林 集美 同安 翔安</string>
                     </array>
                 </array>
             </dict>
@@ -6763,34 +6787,30 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>200</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>为了和国家统一标志相一致，我市将更换已经实行了四年的垃圾分类标志。根据新的标志，可回收物、有害垃圾、其他垃圾分别用_______垃圾桶收集。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>蓝、红、灰</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>红、蓝、灰</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>红、灰、蓝</string>
                     </array>
                 </array>
             </dict>
@@ -6798,34 +6818,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>201</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>马克思主义哲学最主要的特点表现在_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>实践性</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>科学性</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>革命性</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>开放性</string>
                     </array>
                 </array>
             </dict>
@@ -6833,34 +6853,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>202</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>概念、判断、推理是_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>感性认识的三种形式</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>理性认识的三种形式</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>唯物主义的三种形式</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>辨证法的三种形式</string>
                     </array>
                 </array>
             </dict>
@@ -6868,34 +6888,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>203</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>生产关系是指_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>人们在物质资料生产过程中结成的经济关系</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>人与自然的关系</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>人类与环境的关系</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>脑力劳动者与体力劳动者的关系</string>
                     </array>
                 </array>
             </dict>
@@ -6903,7 +6923,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>204</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -6911,26 +6931,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社会主义的根本任务是______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>消灭剥削</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>解放生产力、发展生产力</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>实现公有制</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>实行按劳分配</string>
                     </array>
                 </array>
             </dict>
@@ -6938,34 +6958,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>205</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>下列_______项不属于党的三大作风。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>理论联系实际</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>密切联系群众</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>革命乐观主义精神</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>批评与自我批评</string>
                     </array>
                 </array>
             </dict>
@@ -6973,34 +6993,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>206</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>领导班子合理的年龄结构应该是由不同年龄段的领导者所组成的______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>梯形年龄结构</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>扁平年龄结构</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>塔型年龄结构</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>树型年龄结构</string>
                     </array>
                 </array>
             </dict>
@@ -7008,7 +7028,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>207</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7016,26 +7036,22 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>一切合法的劳动收入和合法的非劳动收入，都应该_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>加以限制</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>得到保护</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>不予干涉</string>
                     </array>
                 </array>
             </dict>
@@ -7043,34 +7059,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>208</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>一位教育工作者撰文表达了他对电子游戏给青少年带来的危害的焦虑之情。他认为电子游戏就象一头怪兽，贪婪、无情地剥夺了青少年学习和与社会交流的时间。以下______项不成为支持以上观点的理由</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>青少年玩电子游戏，上课时无精打采</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>青少年玩电子游戏，作业错误明显增多</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>青少年玩电子游戏，不愿与家长交流</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>青少年玩电子游戏，花费了家里的资金</string>
                     </array>
                 </array>
             </dict>
@@ -7078,34 +7094,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>209</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>与“桃李春风一杯酒”组成对偶最恰当的一句是：</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>树头花落未成荫</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>万草千花一晌开</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>江湖夜雨十年灯</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>风光不与四时同</string>
                     </array>
                 </array>
             </dict>
@@ -7113,7 +7129,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>210</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7121,26 +7137,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>对于下列两句划横线的字的解释，正确的一项是：①并非全属无稽之谈 ②已经见诸报端</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>查考 各种</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>查考 之于</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>计较 之于</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>计较 各种</string>
                     </array>
                 </array>
             </dict>
@@ -7148,7 +7164,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>211</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7156,26 +7172,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>“敌军围困万千重，我自岿然不动。”这句话使用的修辞手法是：</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>借喻</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>夸张</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>拟人</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>比喻</string>
                     </array>
                 </array>
             </dict>
@@ -7183,7 +7199,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>212</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7191,26 +7207,22 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>发展社会主义民主政治，最根本的是要把坚持党的领导、______和依法治国有机统一起来。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>以德治国</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>人民当家作主</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>密切联系群众</string>
                     </array>
                 </array>
             </dict>
@@ -7218,34 +7230,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>213</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>最高人民法院是国家的_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>最高审判机关</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>专门审判机关</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>最高司法机关</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>专门司法机关</string>
                     </array>
                 </array>
             </dict>
@@ -7253,7 +7265,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>214</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7261,26 +7273,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>违犯《治安管理处罚条例》的行为属于_______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>犯罪行为</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>违法行为</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>违纪行为</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>违章行为</string>
                     </array>
                 </array>
             </dict>
@@ -7288,34 +7300,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>215</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>在我国远古居民中，使用新石器的是______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>北京人</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>元谋人</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>蓝田人</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>河姆渡氏族</string>
                     </array>
                 </array>
             </dict>
@@ -7323,34 +7335,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>216</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>我国的基本民族政策是______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>实行民族区域自治</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>实现各民族共同繁荣</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>民族不分大小一律平等</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>反对大民族主义和地方民族主义</string>
                     </array>
                 </array>
             </dict>
@@ -7358,34 +7370,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>217</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>通报的表达方式侧重于______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>叙事</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>说理</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>说明</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>说明、说理</string>
                     </array>
                 </array>
             </dict>
@@ -7393,34 +7405,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>218</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>划分社会阶层的经济标准是______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>财产和收入</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>权力或特权</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>声望和荣誉</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>教育标准</string>
                     </array>
                 </array>
             </dict>
@@ -7428,7 +7440,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>219</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7436,26 +7448,22 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>原全国政协主席李瑞环题词称赞我市______社区为“金色社区”。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>康乐</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>金尚</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>莲花五村</string>
                     </array>
                 </array>
             </dict>
@@ -7463,7 +7471,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>220</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7471,26 +7479,22 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>为配合企业离退休人员移交社会化管理工作，社区居委会应建立（ ）的社区退休人员管理服务组织。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>行政管理</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>群众自治</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
-                    </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
+                        <string>市场化经营</string>
                     </array>
                 </array>
             </dict>
@@ -7498,7 +7502,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>221</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -7506,61 +7510,61 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区居委会成员产生的最根本的途径是______。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>公开招聘</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>民主选举</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>考核录用</string>
                     </array>
-                    <array>
-                        <string>D</string>
-                        <string></string>
-                    </array>
                 </array>
             </dict>
             <dict>
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>222</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>党在社会主义初级阶段的基本路线是（     ）。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>坚持以经济建设为中心</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>坚持四项基本原则</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>坚持以生产资料公有制为主体</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>坚持改革开放</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>坚持以按劳分配为主体</string>
                     </array>
                 </array>
             </dict>
@@ -7568,34 +7572,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>223</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>在我国，“三农”是指（     ）。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>农业</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>农民</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>农耕</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>农村</string>
                     </array>
                 </array>
             </dict>
@@ -7603,34 +7607,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>224</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>领导者的素质包括（     ）</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>政治素质</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>知识素质</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>能力素质</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>心理素质</string>
                     </array>
                 </array>
             </dict>
@@ -7638,34 +7642,38 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>225</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,C,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>正确适用法律的基本要求为（     ）</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>准确</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>从重</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>合法</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>从轻</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>及时</string>
                     </array>
                 </array>
             </dict>
@@ -7673,34 +7681,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>226</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>世界“三大宗教”是（     ）。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>佛教</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>道教</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>基督教</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>伊斯兰教</string>
                     </array>
                 </array>
             </dict>
@@ -7708,34 +7716,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>227</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>灭火的基本方法有（        ）。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>冷却法</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>窒息法</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>隔离法</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>化学抑制法</string>
                     </array>
                 </array>
             </dict>
@@ -7743,34 +7751,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>228</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>计算机的硬件由（      ）几大部分组成。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>CPU</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>存贮器</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>输入和输出装置</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>操作系统</string>
                     </array>
                 </array>
             </dict>
@@ -7778,34 +7786,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>229</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社会工作的要素有（     ）</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社会工作者</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>受助者</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社会工作价值观</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>助人活动</string>
                     </array>
                 </array>
             </dict>
@@ -7813,34 +7821,38 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>230</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D,E</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区主要包（     ）几个基本要素。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>以一定社会关系为基础组织起来进行共同生活的人群</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>共同的地域空间</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>相对完备的生活服务设施</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>有自己特有的文化</string>
+                    </array>
+                    <array>
+                        <string>E</string>
+                        <string>社区居民的归宿感和认同感</string>
                     </array>
                 </array>
             </dict>
@@ -7848,34 +7860,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>231</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区服务的主要特征有（     ）。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>营利性</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>群众性</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>互助性</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>综合性</string>
                     </array>
                 </array>
             </dict>
@@ -7883,34 +7895,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>232</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2008年10月9日至12日，中共十七届（      ）中全会在北京召开。全会审议通过了《中共中央关于（      ）若干重大问题的决定》。中央允许农民流转土地承包权，提出到2020年农民人均纯收入比2008年翻一番。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>二   发展农村社会事业</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>二   建设社会主义新农村</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>三   推进农村改革发展</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>三   加强农村基础设施建设 </string>
                     </array>
                 </array>
             </dict>
@@ -7918,34 +7930,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>233</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2009年是西藏农奴解放（      ）周年</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>40</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>45</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>50</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>60</string>
                     </array>
                 </array>
             </dict>
@@ -7953,34 +7965,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>234</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>改革开放30年来，解放思想孕育了中国特色社会主义，改革开放创造着中国特色社会主义。如果为此而举办“我国改革开放30年成就展”，你认为最符合展览要求的哲学主题是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>主观决定客观，实践产生理论</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>量变决定质变，变化推动发展</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>系统决定要素，部分影响整体</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>思想引领实践，创新促进发展</string>
                     </array>
                 </array>
             </dict>
@@ -7988,34 +8000,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>235</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>近年来，亚丁湾、（      ）海域海盗活动猖獗，对国际航运、海上贸易和海上安全构成严重威胁。2008年12月20日，中国政府决定派海军舰艇执行护航任务。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>索马里</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>马六甲</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>加勒比</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>孟加拉</string>
                     </array>
                 </array>
             </dict>
@@ -8023,34 +8035,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>236</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2008年11月5日，美国总统候选人（      ）当选为新一届美国总统，他是（      ）总统</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>麦凯恩 非洲裔</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>麦凯恩 欧洲裔</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>奥巴马 非洲裔</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>奥巴马 欧洲裔</string>
                     </array>
                 </array>
             </dict>
@@ -8058,34 +8070,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>237</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2008年10月8日，美籍华裔科学家（      ）与日本人下村修和美国人马丁沙尔菲共同获得今年诺贝尔（       ）奖</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>钱学森   物理</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>钱学森   化学</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>钱永健   物理</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>钱永健   化学</string>
                     </array>
                 </array>
             </dict>
@@ -8093,34 +8105,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>238</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>（      ）对于诗人相当于贝多芬对于（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>李白——莫泊桑</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>莫扎特——交响曲</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>普希金——作曲家</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>决斗——失聪</string>
                     </array>
                 </array>
             </dict>
@@ -8128,7 +8140,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>239</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -8136,26 +8148,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>要在Word中建一个表格式履历表，最简单的方法是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>用插入表格的方法</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>在新建中选择具有履历表格式的空文档</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>用绘图工具进行绘制</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>在“表格”菜单中选择表格自动套用格式</string>
                     </array>
                 </array>
             </dict>
@@ -8163,34 +8175,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>240</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2008年8月，厦门BRT首期3条线路正式通车运营。BRT是（      ）的简称。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>快速轨道交通</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>公交专用车道</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>新型公共客运系统 </string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>快速公交系统</string>
                     </array>
                 </array>
             </dict>
@@ -8198,34 +8210,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>241</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>厦门市自2005年荣膺全国首批（      ）以来，通过建立长效机制巩固创建成果，2008年9月，复查结果表明，厦门市再次以优异成绩继续在全国保持领先水平。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>卫生城市</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>人居城市</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>文明城市</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>双拥城市</string>
                     </array>
                 </array>
             </dict>
@@ -8233,34 +8245,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>242</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>中国共产党在党的建设问题上放在首位的是(      )。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>党的思想建设</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>党的组织建设</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>党的作风建设</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>党的制度建设</string>
                     </array>
                 </array>
             </dict>
@@ -8268,34 +8280,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>243</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>在马克思主义发展史上，第一次把解放生产力，发展生产力作为社会主义本质规定的是(      )。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>马克思和恩格斯</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>列宁</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>毛泽东</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>邓小平</string>
                     </array>
                 </array>
             </dict>
@@ -8303,34 +8315,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>244</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>科学发展观的核心内涵是（      ）</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>以人为本</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>全面、协调、可持续发展</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>六个“必须”的原则</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>六个“立足”的政策导向</string>
                     </array>
                 </array>
             </dict>
@@ -8338,34 +8350,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>245</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>就业是民生之本。增加贫困家庭劳动力就业，是治理贫困问题与环境问题的一把“金钥匙”。但增加就业有多种形式、多种途径。从治理贫困问题与环境问题的角度出发，根本的办法是增强市场化就业，而不是家庭内部的自雇就业，是增加异地就业，而不是当地就业。通过异地、市场化的就业，创造财富，转移人口，恢复生态，实现城乡协调发展，区域协调发展，经济社会协调发展，人与自然的和谐发展。根据上文推断以下不符合文意的一项是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>农民进城打工</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>内地人口向沿海流</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>到亲戚家帮佣</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>开办职业介绍所</string>
                     </array>
                 </array>
             </dict>
@@ -8373,34 +8385,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>246</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>仔细观察数字75，109，149，195间的关系，找出其中的排列规律，195之后最合适的数字是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>247</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>338</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>209</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>262</string>
                     </array>
                 </array>
             </dict>
@@ -8408,7 +8420,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>247</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -8416,26 +8428,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>根据我国宪法规定，法律和其他议案由全国人民代表大会全体代表的（      ）通过。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>三分之一以上多数</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>过半数</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>三分之二以上多数</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>四分之三以上多数</string>
                     </array>
                 </array>
             </dict>
@@ -8443,34 +8455,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>248</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>突发公共事件发生时行政机关应当采取行政应急措施，下列不属于突发公共事件的是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>1997年李某位于闹市区的房子着火</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>1998年长江流域特大洪水</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>2003年非典型性肺炎的传播</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>2008年汶川地震</string>
                     </array>
                 </array>
             </dict>
@@ -8478,34 +8490,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>249</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>1915年9月兴起的新文化运动的发起者是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>李大钊</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>胡适</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>陈独秀</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>鲁迅</string>
                     </array>
                 </array>
             </dict>
@@ -8513,7 +8525,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>250</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -8521,26 +8533,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>犯意表示是指以口头、文字或其他方式对犯罪意图的单纯表露，没有具体的主观犯罪动机和客观的行动准备。犯意表示属于思想意识的范畴，不能对社会造成现存的、直接的危害，犯意的表示者常常是出于一时的冲动，用恶害相告来发泄内心的气愤，其真正的用意是为了摆脱内心的不平衡状态，并非产生了犯罪动机，更不是犯罪的预备行为。下列属于犯意表示的是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>甲打电话邀约其朋友李某一起去实施抢劫</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>乙向其朋友赵某表示要杀掉仇人陈某</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>丙为了盗窃张某家财产，毒死了张某家的看家犬</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>丁为方便对刘某实施抢劫，对刘某的活动规律进行跟踪调查</string>
                     </array>
                 </array>
             </dict>
@@ -8548,34 +8560,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>251</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>以下关于公文写作的几种说法中，不正确的是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>在公文中安排语序时，当一组概念表现由若干连续的动作、行为构成的活动过程时，一般应按时间发展顺序排列</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>公文中的疑问语气一般较少使用语气词“啊”“呢”“吧”等，“吗”也尽可能不用或少用</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>有些公文的主题，可以根据领导人授意而直接表达，有些公文的主题，则需在调查研究的过程中，随着对客观实际情况全面而深入的探索而逐步提炼与明确</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>受双重领导的机关向上级机关请示，应写明主送机关和抄送机关，由抄送机关答复</string>
                     </array>
                 </array>
             </dict>
@@ -8583,34 +8595,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>252</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>（      ）是近代社会学领域的一位泰斗。他的“理解社会学”开创了社会学中的反实证主义传统。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>马克斯·韦伯</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>奥古斯特·孔德</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>赫伯特·斯宾塞</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>埃米尔·涂尔干</string>
                     </array>
                 </array>
             </dict>
@@ -8618,34 +8630,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>253</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>以下关于文化的论述，正确的是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>文化是固定不变的，不会因为社会的变迁而变迁</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>只有学习“蓝色文化”，中国的未来才有希望</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>文化是与自然现象不同的人类社会活动的全部成果，它包括人类所创造的一切物质的与非物质的东西</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>文化包括风俗习惯、技能、知识、信仰，价值观念等，是一堆不同成分杂乱无章的组合</string>
                     </array>
                 </array>
             </dict>
@@ -8653,34 +8665,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>254</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>青少年进入成年期以后，将面临重要的社会化任务是（      ）</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>结婚和就业</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>结婚和生子</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>恋爱和结婚</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>发展职业地位</string>
                     </array>
                 </array>
             </dict>
@@ -8688,34 +8700,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>255</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>张女士是一位成功的女企业家，她与丈夫白手起家，经过十余年的努力，家族企业已拥有近亿元的资产，张女士是个孝顺的媳妇、辛苦的母亲，但最近她的丈夫以性格不合为由，与她离婚了。张女士的情况属于社会角色失调中的（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>角色冲突</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>角色不清</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>角色失败</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>角色中断</string>
                     </array>
                 </array>
             </dict>
@@ -8723,34 +8735,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>256</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>（      ）反映社会互动的范围,表明互动双方交往领域的大小</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社会互动的向度</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社会互动的强度</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社会互动的深度</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社会互动的广度</string>
                     </array>
                 </array>
             </dict>
@@ -8758,34 +8770,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>257</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>邻里是基于地域上的相互接近,经过长期的互动形成的一种（      ）。邻里关系的形成取决于社会居住关系的稳定性。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>初级社会群体</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>次级社会群体</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>正式社会群体</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>外群体</string>
                     </array>
                 </array>
             </dict>
@@ -8793,7 +8805,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>258</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -8801,26 +8813,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>在组织中，选择一个全面的战略思想，确定各个阶段具体的工作目标和工作计划，设计最优组织结构或运行模式，挑选组织成员，根据外部环境的变化不断地制定或修改组织规范，评价组织运行成果等称为（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>领导</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>决策</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>控制</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>参与</string>
                     </array>
                 </array>
             </dict>
@@ -8828,34 +8840,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>259</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>以下关于制度创新与制度化的关系，论述不正确的是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>目前，就我国社会而言，制度创新不够和制度化不力这两个方面的问题都程度不同地存在着</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>制度创新与制度化是制度建设的两个重要方面</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>只强调制度化而忽视创新，制度虽然会变得刻板、走向僵化，但基本不会与社会生活相脱节。</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>只强调创新而不以制度化为后盾，制度就会失去相对稳定性和统一性</string>
                     </array>
                 </array>
             </dict>
@@ -8863,34 +8875,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>260</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>按照历史唯物主义的基本观点，推动社会变迁的根本动力是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>生产力的发展以及生产力和生产关系的矛盾运动</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>经济基础和上层建筑的矛盾运动</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>文化变迁的产物</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>自上而下的改革</string>
                     </array>
                 </array>
             </dict>
@@ -8898,34 +8910,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>261</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>考察社会控制是否适度的角度包括历史的角度、社会稳定的角度和（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社会成员幸福指数的角度</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>家庭稳定的角度</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社会成员受教育程度的角度</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社会成员自由程度的角度</string>
                     </array>
                 </array>
             </dict>
@@ -8933,34 +8945,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>262</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>（      ）是指一切不按常规办事的行为，这是最常见的一种社会越轨。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>违法行为</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>违警行为</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>违规行为</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>犯罪行为</string>
                     </array>
                 </array>
             </dict>
@@ -8968,7 +8980,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>263</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -8976,26 +8988,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社会政策制定过程的第一个环节是（      ）</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>制定政策方案</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>确认政策问题</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>政策方案选优</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>政策合法化</string>
                     </array>
                 </array>
             </dict>
@@ -9003,34 +9015,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>264</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>某机构要对青少年网瘾行为进行研究，研究者从几个适合的调查对象开始，然后通过他们得到更多的调查对象，一步步扩大样本范围。这种抽样方法称为（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>偶遇抽样</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>配额抽样</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>简单随机抽样</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>滚雪球抽样</string>
                     </array>
                 </array>
             </dict>
@@ -9038,7 +9050,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>265</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9046,26 +9058,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>一个社会工作者在个案辅导结束后，由于疏忽，将工作记录遗失，造成了服务对象个人信息泄露，这个行为违背了社会工作（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>案主自觉原则</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>保密原则</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>知情同意原则</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>尊重原则</string>
                     </array>
                 </array>
             </dict>
@@ -9073,34 +9085,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>266</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>老人小组工作的基本原则不包括（      ）。 </string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>非正常化原则</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>不要先行假设有些老人按参加小组活动，有些老人不爱参加小组活动</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>小组组员的选择一定要恰当</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>工作员一定要有耐心、细致、周到的工作态度，要尽可能考虑到每个老人的特殊需要</string>
                     </array>
                 </array>
             </dict>
@@ -9108,34 +9120,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>267</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>S与M结婚近一年了，夫妻关系融洽，但令S烦恼的是婆婆常在外人面前批评自己，让自己在邻里面前抬不起头来。丈夫明确表明自己不插手S与母亲的关系，S只得找到街道妇联的工作员帮忙，调解婆媳关系。工作人员与S、M和S的婆婆共同沟通，循环提问，发现一些误会使婆婆耿耿于怀，才会产生一系列家庭问题，在工作员的辅导下，S与婆婆的关系越来越亲密。工作员的工作方法是（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>小组工作方法</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社区工作方法</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>家庭治疗的方法</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社会工作行政方法</string>
                     </array>
                 </array>
             </dict>
@@ -9143,34 +9155,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>268</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>针对有听力、语言障碍的孩子开展的教育是教育康复中的（      ）</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>技能教育</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>技能教育</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>高级教育</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>特殊教育</string>
                     </array>
                 </array>
             </dict>
@@ -9178,34 +9190,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>269</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>矫治社会工作是矫治社会工作者通过运用专业的理论、方法和技巧，使犯罪者或具有犯罪倾向的违法人员得到（        ）的矫正治疗，从而重新融入社会，成为其中正常成员的过程。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>思想上、心理上和行为上</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>心理上、情绪上、行为上</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>心理上、行为上</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>心理上、行为上、外在环境上</string>
                     </array>
                 </array>
             </dict>
@@ -9213,34 +9225,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>270</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>美国著名社区工作专家（      ）将社区工作的目标分为任务目标和过程目标两个类别。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>滕尼斯</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>迪尔凯姆</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>罗斯曼</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>布莱德肖</string>
                     </array>
                 </array>
             </dict>
@@ -9248,7 +9260,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>271</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9256,26 +9268,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>20世纪二三十年代，晏阳初在河北定县发起的（        ），是新中国成立前社区社会工作的重要组成部分。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>乡村改造运动</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>平民教育运动</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>新农村运动</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>人民公社运动</string>
                     </array>
                 </array>
             </dict>
@@ -9283,34 +9295,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>272</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>6月26日是“国际禁毒日”，某社区的社会工作者策划开展了树立正确的人生观；珍爱生命、尊重生命、成全生命；禁止吸毒和预防自杀、暴力等危害生命的行为的大型宣传活动，上述工作属于 (      )。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>生命健康教育</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>家庭美德教育</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社会公德教育</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>科学文化教育</string>
                     </array>
                 </array>
             </dict>
@@ -9318,34 +9330,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>273</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>(       )是指需要照顾人士在社区内的小型服务机构或住所中，获得专业工作人员的照顾。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>专业照顾</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>由社区照顾</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>院舍照顾</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社区内照顾</string>
                     </array>
                 </array>
             </dict>
@@ -9353,7 +9365,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>274</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9361,26 +9373,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>评估阶段是社区工作一个周期的最后阶段，其中，（      ）着重于评估预定的目标是否达到、达到多少、结果如何。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>过程评估</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>成效评估</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>效能评估</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>综合评估</string>
                     </array>
                 </array>
             </dict>
@@ -9388,34 +9400,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>275</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>中国城镇中的基层群众性自治组织称为（      ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>业主委员会</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>物业管理委员会</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社区居民委员会</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>街道办事处</string>
                     </array>
                 </array>
             </dict>
@@ -9423,34 +9435,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>276</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>（      ）是搞好社区建设的基本保证。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社区居民的广泛参与</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社区工作者专业化水平的提高</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>各级党政领导的重视</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>专家、学者的支持</string>
                     </array>
                 </array>
             </dict>
@@ -9458,7 +9470,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>277</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9466,26 +9478,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>2008年，以美国第四大投资银行（      ）公司破产为标志，国际金融危机爆发并迅速蔓延，对我国经济产生重大影响。为此我国果断决定实行积极的财政政策和适度宽松的货币政策以应对危机。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>高盛</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>雷曼兄弟</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>美林</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>摩根土丹利</string>
                     </array>
                 </array>
             </dict>
@@ -9493,34 +9505,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>278</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>北京2008年奥运会，向世人展现了中国传统文化与奥林匹克精神不断交流与融合的特色。这里所蕴含的哲学思想是（      ）。  </string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>矛盾无处不在，无时不有</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>矛盾的特殊性寓于矛盾的普遍性之中</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>事物是量变和质变的统一</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>矛盾的普遍性与特殊性是相互联结的</string>
                     </array>
                 </array>
             </dict>
@@ -9528,7 +9540,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>279</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9536,26 +9548,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>根据我国有关法律规定，下列行为中的不合法行为是 (       )。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>某乡人民代表大会选举产生乡长、副乡长</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>国务院某部门制定规章设定行政许可</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>国务院发布《关于加强市县政府依法行政的决定》</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>全国人民代表大会常务委员会批准2008年中央预算调整方案</string>
                     </array>
                 </array>
             </dict>
@@ -9563,34 +9575,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>280</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>以下问题属于社区的共同性问题的是（     ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>居民王某的夫妻关系紧张</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>社区小卖部经营困难</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社区居委会更换办公地址</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社区建筑工地尘土飞扬，噪声吵得居民无法入睡</string>
                     </array>
                 </array>
             </dict>
@@ -9598,7 +9610,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>281</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9606,26 +9618,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社区工作者应该具备发动群众、组织群众和依靠群众，能开展群众性活动的能力是（       ）。</string>
                 <key>type</key>
                 <string>0</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>分析和综合能力</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>群众工作能力</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>组织协调能力</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>社区公共事物管理能力</string>
                     </array>
                 </array>
             </dict>
@@ -9633,34 +9645,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>282</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>我们要构建的社会主义和谐社会，应该是(        )， 人与自然和谐相处的社会。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>民主法治</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>公平正义</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>充满活力</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>安定有序</string>
                     </array>
                 </array>
             </dict>
@@ -9668,34 +9680,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>283</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>宪法最主要的特征可以归纳为(        )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>在规定的内容上，宪法规定国家制度和社会制度的最基本的原则，公民的基本权利和义务，国家机构的组织及其运作的原则等</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>在法律地位或法律效力上，宪法具有最高法律地位或法律效力</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>宪法是一切国家机关、社会组织和公民个人活动的最高法律依据和行为准则</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>在制定和修改的程序上，宪法的制定和修改都要经过区别与普通法律的特别的程序</string>
                     </array>
                 </array>
             </dict>
@@ -9703,34 +9715,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>284</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>以下关于台湾问题的论述，正确的说法是(        )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>台湾问题是国内战争遗留下来的问题</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>统一是中国历史的主流</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>“一国两制”构想是从台湾问题开始的</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>台湾问题的解决必要时可以请国际社会帮助</string>
                     </array>
                 </array>
             </dict>
@@ -9738,34 +9750,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>285</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>社会工作的基本构成要素包括(        )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>社会工作者</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>受助者</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>社会工作价值观</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>营利的助人活动</string>
                     </array>
                 </array>
             </dict>
@@ -9773,34 +9785,34 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>286</string>
                 <key>answer</key>
-                <string>B</string>
+                <string>A,B,C,D</string>
                 <key>score</key>
                 <string>3</string>
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>城市社区，指在特定的区域内，由从事各种非农业劳动的密集人口所组成的社区，其主要特点是(        )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>人口集中，异质性强</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>具有结构复杂的各种群体和组织</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>家庭的规模和职能扩大，人际关系越来越密切</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>思想、政治、文化相对发达</string>
                     </array>
                 </array>
             </dict>
@@ -9808,7 +9820,7 @@
                 <key>test_id</key>
                 <string>2</string>
                 <key>number</key>
-                <string>59</string>
+                <string>287</string>
                 <key>answer</key>
                 <string>B</string>
                 <key>score</key>
@@ -9816,26 +9828,26 @@
                 <key>topic_id</key>
                 <string>6</string>
                 <key>title</key>
-                <string></string>
+                <string>中国社会工作的“民政模式”的特点包括(        )。</string>
                 <key>type</key>
-                <string>0</string>
+                <string>1</string>
                 <key>option_xuan</key>
                 <array>
                     <array>
                         <string>A</string>
-                        <string></string>
+                        <string>民政部门有一个从中央、省（自治区、直辖市）、地区（自治州、地级市）、县（自治县、县级市）、乡镇（街道）直至农村、居民委员会的遍布全国的行政网络和从上到下或从下到上的信息渠道</string>
                     </array>
                     <array>
                         <string>B</string>
-                        <string></string>
+                        <string>建国以来，民政系统由于职责所在，对于负面的社会状况关注尤甚，与基层、社会贫弱群体也有一种特殊的联系</string>
                     </array>
                     <array>
                         <string>C</string>
-                        <string></string>
+                        <string>改革以来，中国不步入社会转轨、社会转型的剧烈变化时期，民政部门面临的社会问题也剧增</string>
                     </array>
                     <array>
                         <string>D</string>
-                        <string></string>
+                        <string>民政部门的各项重大改革措施和社会政策的出台，无需经过党中央、国务院或全国人大的批准，只要民政部批准即可</string>
                     </array>
                 </array>
             </dict>

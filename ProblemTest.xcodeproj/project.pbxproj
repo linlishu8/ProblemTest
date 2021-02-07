@@ -1303,7 +1303,7 @@
 					"$(PROJECT_DIR)/ProblemTest/HPCommon/HPExternal\\ /EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrnb",
 					"$(PROJECT_DIR)/ProblemTest/HPCommon/HPExternal\\ /EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrwb",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Celia.ProblemTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.liuwei.exam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1324,7 +1324,7 @@
 					"$(PROJECT_DIR)/ProblemTest/HPCommon/HPExternal\\ /EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrnb",
 					"$(PROJECT_DIR)/ProblemTest/HPCommon/HPExternal\\ /EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrwb",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Celia.ProblemTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.liuwei.exam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
